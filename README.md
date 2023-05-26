@@ -2,7 +2,7 @@
 
 The shooter spawning system is a code snippet that demonstrates the creation and spawning of shooter objects with different shooter models. It utilizes a shooter model factory to retrieve shooter models based on specified types and assigns them to shooter instances. The following steps outline the functionality of the code:
 
-# Code Overview
+## Code Overview
 The provided code snippet consists of the following components:
 
 Printing Student Information: Prints the name and Humber ID of the student who wrote the code.
@@ -13,7 +13,7 @@ Shooter Creation: Ten shooter objects are created using the retrieved shooter mo
 
 Spawning Function: The Spawn function is defined to print the ID, shooter, and associated skin and texture information for each created shooter.
 
-# Usage
+## Usage
 To use the shooter spawning system, follow these steps:
 
 Ensure that the necessary dependencies and classes (ShooterModelFactory, IShooterModel, Shooter) are implemented and available.
